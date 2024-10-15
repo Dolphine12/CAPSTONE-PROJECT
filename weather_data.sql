@@ -14,8 +14,5 @@ rename column city to city_name,
 rename column time to timestamp;
 
 SELECT * FROM weather_data;
-Show GRANTS FOR 'avnadmin';
-show tables;
-GRANT INSERT, SELECT, UPDATE ON Weather_forecast.* TO 'avnadmin';
 
 
