@@ -4,7 +4,7 @@ import mysql.connector
 from datetime import datetime
 
 # Replace with your actual API key and MySQL credentials
-API_KEY = "df8924ab03215d25be23aa862db1272c"  
+API_KEY = "*****************"  
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 CITIES = ["Nairobi", "Mombasa", "Kisumu", "Nakuru", "Eldoret", "Thika", "Malindi"]  # List of Kenyan cities
 
